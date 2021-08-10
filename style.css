@@ -1,0 +1,18 @@
+header{
+    background-color: #F0FFF0;
+}
+.sign-in-btn{
+    padding: 12px 28px;
+    background: #21B573;
+    border-radius: 33px;
+}
+span{
+    color: #21B573;
+}
+.bg-card-color{
+    background-color: #F8FFFB;
+}
+.icon-image{
+    width: 24px;
+    height: 24px;
+}
